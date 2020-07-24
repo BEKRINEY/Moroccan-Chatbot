@@ -3,18 +3,21 @@ A chatbot is an artificial intelligence-powered piece of software in a device (S
 In our country morocco, all companies are using chatbots with Arabic or French language, but not all Moroccans speak those languages and the majority of citizens prefers to communicate with dialect Moroccan Arabic language.
 So that's inspired me to make a Moroccan chatbot who can engage with users with dialect Moroccan Arabic , using cikit library and NLTK.
 
- ##  But i need more time  to make sach chatbot because of those points :
- 
- - i have to make an  arabic dialic stop word that doesn't exist in the scietinfic world of machine learning .
+## But I need more time to create such a chatbot because of these points:
+
+ - I have to make an Arabic dialect stop word file that doesn't exist in the ML scientific community.
  - 
  
+   > i will continue working in this project as personal one to make it done
  
 ## What i have done in this project :
-- i find an arabic dialic moroccan corpus [HERE](https://nyuad.nyu.edu/en/research/centers-labs-and-projects/computational-approaches-to-modeling-language-lab/resources.html) .
+- i fond an arabic dialect moroccan corpus [HERE](https://nyuad.nyu.edu/en/research/centers-labs-and-projects/computational-approaches-to-modeling-language-lab/resources.html) .
  - 
  
+ You can find my Jupyter notebook for the moroccan dialict chatbot [HERE](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Chatbot.ipynb)
  
  ## Next idea : 
-  > i choose to work in an english chatbot for travelers who want to visite our country to guide them and informe them about our cities ,foods ,  culter ...
+  > i choose to work in an english chatbot for travelers who wants to visite our country thath guide them and informe them about our cities ,foods ,  culter ...
   
+  You can find my Jupyter notebook for  the tourime morrocan chatbot  [HERE](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Tourism_Chatbot.ipynb)
   
