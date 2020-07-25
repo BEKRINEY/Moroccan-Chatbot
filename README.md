@@ -34,9 +34,9 @@ Vous pouvez rouver mon Jupyter notebook de mon essaye d'un chatbot marocaine [IC
  
  ## Le projet final (Morrocan Tourism Chatbot) : 
 
-  > Morrocan Tourism Chatbot est un chatbot qui permet d'aider les voyageurs qui vont visiter le maroc, alors il offre des informations sur la cuture , les places touristiques, les repas de notre cher pays.
+Morrocan Tourism Chatbot est un chatbot qui permet d'aider les voyageurs qui vont visiter le maroc, alors il offre des informations sur la cuture , les places touristiques, les repas de notre cher pays.
 
-Ce projet est venu dans le contexte de la pandémie COVID-19 qui a impacté le domaine touristique dans le monde entier et surtout que notre pays a connu une baisse de plus de 20% des recettes du tourisme.
+  > Ce projet est venu dans le contexte de la pandémie COVID-19 qui a impacté le domaine touristique dans le monde entier et surtout que notre pays a connu une baisse de plus de 20% des recettes du tourisme.
 
   Vous pouvez touver mon Jupyter notebook du développement de chatbot Morrocan tourism   [ICI](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Tourism_Chatbot.ipynb)
   
