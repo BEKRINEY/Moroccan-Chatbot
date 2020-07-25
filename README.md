@@ -29,7 +29,7 @@ Les difficultés :
 
 -	Il faut construire notre propre fichier de  stop-words pour l'arabe dialectal marocain
 
-Vous pouvez rouver mon Jupyter notebook de mon essaye d'un chatbot marocaine [ICI](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Chatbot.ipynb)
+Vous pouvez rouver mon Jupyter notebook de mon essaye de développement d'un chatbot marocaine [ICI](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Chatbot.ipynb)
 
  
  ## Le projet final (Morrocan Tourism Chatbot) : 
