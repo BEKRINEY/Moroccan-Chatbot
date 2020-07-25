@@ -1,4 +1,4 @@
-# Lien du video descriptive :
+# Lien de video descriptive :
 
 https://youtu.be/iyQCE0o40PM
 
