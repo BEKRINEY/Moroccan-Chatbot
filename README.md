@@ -1,9 +1,9 @@
 # Moroccan-Chatbot
 Un chatbot est un logiciel alimenté par l'intelligence artificielle d'un appareil (Siri, Alexa, Google Assistant, etc.), d'une application, d'un site web ou d'autres réseaux qui tentent d'évaluer les besoins des consommateurs et les aident ensuite à effectuer une tâche particulière, comme une transaction commerciale, une réservation d'hôtel, la soumission d'un formulaire, etc. Aujourd'hui, presque toutes les entreprises ont mis en place un chatbot pour dialoguer avec les utilisateurs. Voici quelques-unes des manières dont les entreprises utilisent les chatbots :
 
-    Pour fournir des informations sur les vols
-    pour relier les clients et leurs finances
-    En tant qu'assistance à la clientèle
+    - Pour fournir des informations sur les vols
+    - pour relier les clients et leurs finances
+    - En tant qu'assistance à la clientèle
 
 Les possibilités sont (presque) illimitées.
 
