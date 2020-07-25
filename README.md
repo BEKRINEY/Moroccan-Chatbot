@@ -14,7 +14,7 @@ Alors j'ai commencé dans un premier temps par l’idée d’un chatbot marocain
 
 
 
-Ce qui est faite :
+Ce qui est fait :
 -	J’ai trouvé un Abstract de premier Arabe dialecte chatbot : 
 
 Il s'agit un egyptien Arabe Dialecte Chatbot 
