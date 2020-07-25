@@ -22,7 +22,7 @@ https://www.aclweb.org/anthology/C16-2044.pdf
 
 Computational Approaches to Modeling Language Lab - New York University Abu Dhabi, UAE
 
--	J’ai trouvé un Corpus de l'arabe dialectal marocain sur le projet MADAR de  New York University Abu Dhabi, UAE  :
+-	J’ai trouvé un Corpus de l'arabe dialectal marocain au niveau du projet MADAR de New York University Abu Dhabi, UAE  :
 https://nyuad.nyu.edu/en/research/centers-labs-and-projects/computational-approaches-to-modeling-language-lab/resources.html
 
 Les difficultés :
