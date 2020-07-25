@@ -7,27 +7,36 @@ Un chatbot est un logiciel alimenté par l'intelligence artificielle d'un appare
 
 Les possibilités sont (presque) illimitées.
 
-J'ai commencé dans un premier temps par l’idée d’un chatbot marocaine avec la langue arabe dialecte. , mais après la recherche et l’application j’ai trouvé qu’un tel projet nécessite plus du temps et il ne peut pas être un mini projet.
+Dans notre pays, le Maroc, toutes les entreprises utilisent des chatbots avec la langue arabe ou française, mais tous les Marocains ne parlent pas ces langues et la majorité des citoyens préfèrent communiquer avec la  dialectal arabe marocain. C'est ce qui m'a inspiré pour créer un chatbot marocain qui peut communiquer avec des utilisateurs parlant l'arabe marocain dialectal, en utilisant la bibliothèque de cikits et la NLTK.
+
+
+Alors j'ai commencé dans un premier temps par l’idée d’un chatbot marocaine avec la langue arabe dialecte , mais après la recherche et l’application j’ai trouvé qu’un tel projet nécessite plus du temps et il ne peut pas être un mini projet.
+
+
 
 Ce qui est faite :
+-	J’ai trouvé un Abstract de premier Arabe dialecte chatbot : 
+
+Il s'agit un egyptien Arabe Dialecte Chatbot 
+https://www.aclweb.org/anthology/C16-2044.pdf
+
+Computational Approaches to Modeling Language Lab - New York University Abu Dhabi, UAE
+
+-	J’ai trouvé un Corpus de l'arabe dialectal marocain sur le projet MADAR de  New York University Abu Dhabi, UAE  :
+https://nyuad.nyu.edu/en/research/centers-labs-and-projects/computational-approaches-to-modeling-language-lab/resources.html
+
 Les difficultés :
 
+-	Il faut construire notre propre fichier de  stop-words pour l'arabe dialectal marocain
 
-## But I need more time to create such a chatbot because of these points:
+Vous pouvez rouver mon Jupyter notebook de mon essaye d'un chatbot marocaine [ICI](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Chatbot.ipynb)
 
- - I have to make an Arabic dialect stop word file that doesn't exist in the ML scientific community.
- - 
  
-   > i will continue working in this project as personal one to make it done
- 
-## What i have done in this project :
-- i fond an arabic dialect moroccan corpus [HERE](https://nyuad.nyu.edu/en/research/centers-labs-and-projects/computational-approaches-to-modeling-language-lab/resources.html) .
- - 
- 
- You can find my Jupyter notebook for the moroccan dialict chatbot [HERE](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Chatbot.ipynb)
- 
- ## Next idea : 
-  > i choose to work in an english chatbot for travelers who wants to visite our country thath guide them and informe them about our cities ,foods ,  culter ...
-  
-  You can find my Jupyter notebook for  the tourime morrocan chatbot  [HERE](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Tourism_Chatbot.ipynb)
+ ## Le projet final (Morrocan Tourism Chatbot) : 
+
+  > Morrocan Tourism Chatbot est un chatbot qui permet d'aider les voyageurs qui vont visiter le maroc, alors il offre des informations sur la cuture , les places touristiques, les repas de notre cher pays.
+
+Ce projet est venu dans le contexte de la pandémie COVID-19 qui a impacté le domaine touristique dans le monde entier et surtout que notre pays a connu une baisse de plus de 20% des recettes du tourisme.
+
+  Vous pouvez touver mon Jupyter notebook du développement de chatbot Morrocan tourism   [ICI](https://github.com/BEKRINEY/Moroccan-Chatbot/blob/master/Moroccan_Tourism_Chatbot.ipynb)
   
